@@ -1,0 +1,39 @@
+Submit answers to the questions below.
+- toolssub.txt is the file name to submit
+- tools        is the submit locker
+
+Instructions.
+- Use your browser to save this file as: toolssub.txt
+- Use an editor to fill in the answers
+- Submit the toolssub.txt, to the tools submit locker
+
+
+1. Which software are you using. 
+
+   Are you using DOSBox and MASM : Yes
+   Which operating system are you using : Windows 7
+ 
+
+2. How long did you spend on the TOOLS assignment.
+
+   Answer = 45 minutes.
+
+3. In TOOLS PART-B question 3 you are asked to fill in the
+   absolute addresses of the Stack, Data and Code Segments. 
+   What were those values.
+   
+   Remember that segment addresses are always 5 hex digits.
+
+   Answer = Stack Segment = 06010
+            Data  Segment = 05FF0
+            Code  Segment = 05FE0
+
+4. Run the "TESTKEYS" program described in Part C.
+   What hex values are generated when you press these keys.
+
+   One byte hex value when you press the Enter key       = 0D
+   
+   Two byte hex value when you press the F1 Function key = 00 3B
+
+
+
